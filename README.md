@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 | Cloud  | Systems          | OS |
-| :--------------- |:---------------:| -----:|
+| :---------------: |:---------------:| -----:|
 | <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />  |   ce texte        | <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" /> |
 | <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />  | est             |   Aligné à droite |
 | <img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" /> | centré          |    Aligné à droite |
