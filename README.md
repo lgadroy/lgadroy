@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-| Aligné à gauche  | Centré          | Aligné à droite |
+| Systems  | Networks          | Others |
 | :--------------- |:---------------:| -----:|
-| Aligné à gauche  |   ce texte        |  Aligné à droite |
+| <img src="https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white" />  |   ce texte        |  Aligné à droite |
 | Aligné à gauche  | est             |   Aligné à droite |
 | Aligné à gauche  | centré          |    Aligné à droite |
 
