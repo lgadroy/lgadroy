@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-<!--
-**lgadroy/lgadroy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| Aligné à gauche  | Centré          | Aligné à droite |
+| :--------------- |:---------------:| -----:|
+| Aligné à gauche  |   ce texte        |  Aligné à droite |
+| Aligné à gauche  | est             |   Aligné à droite |
+| Aligné à gauche  | centré          |    Aligné à droite |
 
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
