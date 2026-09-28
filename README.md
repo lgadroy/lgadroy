@@ -1,6 +1,6 @@
 # Léo Gadroy
 
-Bienvenue sur mon portfolio ! Je suis actuellement étudiant en M2 MIAGE, et issu d'un parcours en BUT Informatique (parcours DACS) et BTS SIO (option SISR). Je partage ici mes projets académiques et personnels. En ce moment, je m'intéresse particulièrement à l'analyse de données et à la Business Intelligence.
+Bienvenue sur mon portfolio ! Je suis actuellement étudiant en M2 MIAGE, et issu d'un parcours en BUT Informatique (parcours DACS) et BTS SIO (option SISR). Je partage ici mes projets académiques et personnels.
 
 ## À propos de moi
 
