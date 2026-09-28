@@ -5,6 +5,6 @@ Bienvenue sur mon portfolio ! Je suis actuellement étudiant en M2 MIAGE, et iss
 ## À propos de moi
 
 * 🎓 Formation : M2 MIAGE Parcours ACSI (Audit et Conception de Systèmes d'Information)
-* 💼 Statut : En recherche d'une alternance pour le début de l'année ou d'un stage de fin d'études débutant en mars 2027
-* 💡 Intérêts : Business Intelligence, analyse de données, gestion de projet, conception de SI, automatisation de processus
+* 💼 Statut : En recherche d'un stage de fin d'études de 6 mois (avril-septembre 2027)
+* 💡 Intérêts : Business Intelligence, analyse de données, Data Science, conception de SI, automatisation de processus
 * 📊 Dernier projet : [Retail Sales BI](https://github.com/lgadroy/retail-sales-bi). Conception d'un pipeline ETL, modélisation en étoile et dashboard Power BI sur un jeu de données retail
