@@ -8,4 +8,4 @@ Je suis issu d'un parcours en BUT Informatique (parcours DACS) et BTS SIO (parco
 * 🎓 Formation : M2 MIAGE Parcours ACSI (Audit et Conception de Systèmes d'Information)
 * 💼 Statut : En recherche d'un stage de fin d'études de 6 mois (avril à septembre 2027)
 * 💡 Intérêts : Business Intelligence, Analyse de données, Data Science, Conception de SI, Automatisation de processus
-* 📊 Dernier projet : Credit Scoring. Modélisation du risque de défaut bancaire sous Python via la régression logistique.
+* 📊 Dernier projet : Credit Scoring. Modélisation du risque de défaut bancaire sous Python via la régression logistique
